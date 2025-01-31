@@ -1,0 +1,4 @@
+theater_id,theater_name,screen_id,screen_name,movie_id,movie_name,start_date,end_date,show_start_time,show_end_time,break_start_time,break_duration
+THTR002,Sasikala,SCR002,Screen1_sasikala,movie_1,Avatar 3,13-12-2024,20-12-2024,10:00:00,13:00:00,11:30:00,15
+THTR002,Sasikala,SCR002,Screen1_sasikala,movie_2,Avengers3,15-12-2024,25-12-2024,14:00:00,17:00:00,15:30:00,20
+THTR002,Sasikala,SCR002,Screen1_sasikala,movie_6,Spiderman3,10-12-2024,18-12-2024,18:00:00,21:00:00,19:30:00,10
